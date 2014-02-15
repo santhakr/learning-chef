@@ -1,7 +1,7 @@
 # Chef
-.chef
-.vagrant
-.berkshelf
+.chef/
+.vagrant/
+.berkshelf/
 
 # Ruby
 .rake_test_cache
